@@ -144,11 +144,6 @@ Select:
 - [MLX Audio](https://github.com/Blaizzy/mlx-audio) - MLX framework for audio models
 - [MLX Community](https://huggingface.co/mlx-community) - Pre-converted MLX models
 
----
-
-## License
-
-Apache 2.0
 
 ---
 
