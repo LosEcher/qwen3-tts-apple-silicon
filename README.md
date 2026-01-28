@@ -24,7 +24,6 @@ MLX models are specifically optimized for Apple Silicon. Compared to running sta
 |--------|----------------|-----------|
 | **RAM Usage** | 10+ GB | 2-3 GB |
 | **CPU Temperature** | 80-90°C | 40-50°C |
-| **Fan Noise** | Loud | Silent |
 
 *Tested on M4 MacBook Air (fanless) with 1.7B models*
 
