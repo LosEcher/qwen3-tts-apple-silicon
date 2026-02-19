@@ -1,3 +1,6 @@
+fastapi==0.115.0
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
 anyio==4.12.1
 audioop-lts==0.2.2
 audioread==3.1.0
